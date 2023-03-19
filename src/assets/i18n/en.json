@@ -1,0 +1,6 @@
+{
+    "ROUTES": {
+        "home": "home",
+        "about": "about"
+    }
+}

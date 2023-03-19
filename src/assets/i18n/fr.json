@@ -1,0 +1,6 @@
+{
+    "ROUTES": {
+        "home": "accueil",
+        "about": "a-propos"
+    }
+}

@@ -1,0 +1,10 @@
+identifier: k4z6yancdew7d8s9
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: scully-plugins
+homeFolder: /Users/jordan/Documents/Perso/ngx-translate-router-scully-plugin
+distFolder: dist/scully-plugins
+outDir: /Users/jordan/Documents/Perso/ngx-translate-router-scully-plugin/dist/static
+handle404: ''

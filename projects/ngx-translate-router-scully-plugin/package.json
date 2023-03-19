@@ -1,0 +1,33 @@
+{
+  "name": "@0nza1101/ngx-translate-router-scully-plugin",
+  "version": "1.0.2",
+  "peerDependencies": {
+    "@scullyio/scully": "^2.1.41"
+  },
+  "types": "index.d.ts",
+  "description": "A Scully plugin to support ngx-translate-router",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/0nza1101/ngx-translate-router-scully-plugin.git"
+  },
+  "keywords": [
+    "angular",
+    "scully",
+    "ssr",
+    "ngx-translate-router",
+    "ngx-translate-router-scully-plugin"
+  ],
+  "author": "David Gilson <davgilson@live.fr>",
+  "contributors": [
+    "Jordan Nijean <contact@jordan-nijean.com>"
+  ],
+  "private": false,
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0nza1101/ngx-translate-router-scully-plugin/issues"
+  },
+  "homepage": "https://github.com/0nza1101/ngx-translate-router-scully-plugin/blob/master/projects/ngx-translate-router-scully-plugin",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
